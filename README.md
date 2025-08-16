@@ -63,7 +63,7 @@ The website simulates a small business online presence, showcasing a cafe’s me
 ---
 
 ## Live Demo
-[Add your GitHub Pages or Netlify link here]
+[ https://pragathivaishnavi11.github.io/CozyCafe_webpage_ApaxTask-1/]
 
 ---
 
